@@ -1,19 +1,20 @@
 package com.ducat.springboot.rest.controller;
 
-import java.time.LocalDate;
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-
 import com.ducat.springboot.rest.model.User;
+import com.ducat.springboot.rest.model.UserModel;
 import com.ducat.springboot.rest.service.Myservice;
-
+@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 public class Mycontroller {
 
@@ -24,6 +25,12 @@ public class Mycontroller {
 	public List<User> getUsers() {
 		System.out.println(this.getClass().getSimpleName() + " - Get all Users service is invoked.");
 		return service.getUsers();
+	}
+	
+	@GetMapping(produces = "application/json")
+	@RequestMapping({ "/validateLogin" })
+	public UserModel validateLogin() {
+		return new UserModel("User successfully authenticated");
 	}
 
 	@RequestMapping(value= "/User/{id}", method= RequestMethod.GET)

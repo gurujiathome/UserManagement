@@ -1,6 +1,5 @@
 package com.ducat.springboot.rest.model;
 
-import java.sql.Date;
 import java.time.LocalDate;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -30,7 +29,9 @@ public class User {
 	private int uid;
 	private String uname;
 	private String uphone;
-	private String status;
+	public String status;
+	private String upass;
+	private String promoCode;
 	//@DateTimeFormat(iso = DateTimeFormatter.ISO_LOCAL_DATE_TIME)
 	@JsonFormat(pattern = "YYYY-MM-dd")
 	private String created_date;
@@ -59,6 +60,19 @@ public class User {
 	}
 	public void setStatus(String status) {
 		this.status = status;
+	}
+	
+	public String getUpass() {
+		return upass;
+	}
+	public void setUpass(String upass) {
+		this.upass = upass;
+	}
+	public String getPromoCode() {
+		return promoCode;
+	}
+	public void setPromoCode(String promoCode) {
+		this.promoCode = promoCode;
 	}
 	public String getCreated_date() {
 		return created_date;
