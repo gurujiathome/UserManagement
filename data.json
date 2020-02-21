@@ -11,7 +11,7 @@
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
-              "tracks": ["Food"],
+              "tracks": ["Urgent"],
               "id": "1"
             }
           ]
@@ -20,11 +20,11 @@
           "time": "9:15 am",
           "sessions": [
             {
-               "name": "Looking for Mathematics Faculty",
-              "timeStart": "11 th Science class",
+               "name": "Looking for Physics Faculty",
+              "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
-              "tracks": ["Ionic"],
+              "tracks": ["Just Exploring"],
               "id": "2"
             },
             {
@@ -44,7 +44,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Ionic"],
+              "tracks": ["Just Exploring"],
               "id": "4"
             }
           ]
@@ -59,7 +59,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Ionic"],
+              "tracks": ["Just Exploring"],
               "id": "5"
             },
             {
@@ -69,7 +69,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Angular"],
+              "tracks": ["Immediate"],
               "id": "6"
             },
             {
@@ -139,7 +139,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Food"],
+              "tracks": ["Urgent"],
               "id": "12"
             }
           ]
@@ -224,7 +224,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Angular"],
+              "tracks": ["Immediate"],
               "id": "19"
             },
             {
@@ -410,7 +410,7 @@
       "center": true
     },
     {
-      "name": "Ionic HQ",
+      "name": "Just Exploring HQ",
       "lat": 43.074395,
       "lng": -89.381056
     },
@@ -423,7 +423,7 @@
 
   "tracks": [
     {
-      "name": "Angular",
+      "name": "Immediate",
       "icon": "logo-angular"
     },
     {
@@ -431,11 +431,11 @@
       "icon": "document"
     },
     {
-      "name": "Food",
+      "name": "Urgent",
       "icon": "restaurant"
     },
     {
-      "name": "Ionic",
+      "name": "Just Exploring",
       "icon": "logo-ionic"
     },
     {
