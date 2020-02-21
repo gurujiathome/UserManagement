@@ -11,7 +11,7 @@
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
-              "tracks": ["Urgent"],
+              "tracks": ["Food"],
               "id": "1"
             }
           ]
@@ -24,7 +24,7 @@
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
-              "tracks": ["Just Exploring"],
+              "tracks": ["Ionic"],
               "id": "2"
             },
             {
@@ -44,7 +44,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Just Exploring"],
+              "tracks": ["Ionic"],
               "id": "4"
             }
           ]
@@ -59,7 +59,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Just Exploring"],
+              "tracks": ["Ionic"],
               "id": "5"
             },
             {
@@ -69,7 +69,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Immediate"],
+              "tracks": ["Angular"],
               "id": "6"
             },
             {
@@ -139,7 +139,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Urgent"],
+              "tracks": ["Food"],
               "id": "12"
             }
           ]
@@ -224,7 +224,7 @@
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Immediate"],
+              "tracks": ["Angular"],
               "id": "19"
             },
             {
@@ -410,7 +410,7 @@
       "center": true
     },
     {
-      "name": "Just Exploring HQ",
+      "name": "Ionic HQ",
       "lat": 43.074395,
       "lng": -89.381056
     },
@@ -423,7 +423,7 @@
 
   "tracks": [
     {
-      "name": "Immediate",
+      "name": "Angular",
       "icon": "logo-angular"
     },
     {
@@ -431,11 +431,11 @@
       "icon": "document"
     },
     {
-      "name": "Urgent",
+      "name": "Food",
       "icon": "restaurant"
     },
     {
-      "name": "Just Exploring",
+      "name": "Ionic",
       "icon": "logo-ionic"
     },
     {
