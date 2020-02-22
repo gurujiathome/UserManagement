@@ -7,11 +7,15 @@
           "time": "8:00 am",
           "sessions": [
             {
-               "name": "Looking for Physics Faculty",
+               "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
-              "tracks": ["Food"],
+			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
+              "tracks": ["Exploring"],
               "id": "1"
             }
           ]
@@ -24,21 +28,26 @@
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
               "tracks": ["Ionic"],
               "id": "2"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
               "speakerNames": ["Ted Turtle"],
-			  "tracks": ["Tooling"],
+			  "tracks": ["Urgent"],
               "id": "3"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
@@ -53,43 +62,54 @@
           "time": "10:00 am",
           "sessions": [
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
               "speakerNames": ["Ted Turtle"],
               "tracks": ["Ionic"],
               "id": "5"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
               "speakerNames": ["Ted Turtle"],
               "tracks": ["Angular"],
               "id": "6"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
               "speakerNames": ["Ted Turtle"],
               "tracks": ["Design"],
               "id": "7"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Services"],
+              "tracks": ["Weekend"],
               "id": "8"
             }
           ]
@@ -98,7 +118,7 @@
           "time": "11:00 am",
           "sessions": [
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
@@ -108,17 +128,20 @@
               "id": "9"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
               "speakerNames": ["Ted Turtle"],
               "tracks": ["Communication"],
               "id": "10"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
@@ -133,13 +156,16 @@
           "time": "12:00 pm",
           "sessions": [
             {
-             "name": "Looking for Chemistry Faculty",
+             "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Food"],
+              "tracks": ["Exploring"],
               "id": "12"
             }
           ]
@@ -148,33 +174,42 @@
           "time": "1:00 pm",
           "sessions": [
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
               "speakerNames": ["Ted Turtle"],
               "tracks": ["Communication"],
               "id": "13"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
               "speakerNames": ["Ted Turtle"],
               "tracks": ["Communication"],
               "id": "14"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
+			  "Charges":"50 ₹",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Services"],
+              "tracks": ["Weekend"],
               "id": "15"
             }
           ]
@@ -183,27 +218,29 @@
           "time": "2:00 pm",
           "sessions": [
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
               "speakerNames": ["Ted Turtle"],
-              "tracks": ["Services"],
+              "tracks": ["Weekend"],
               "id": "16"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
 			  "description": "My son is studying in 12th . looking for 2+ year experienced faculty",
+			  "PreferredPlace":"Students Home",
+			  "GenderPreference":"Male",
               "speakerNames": ["Ted Turtle"],
               "tracks": ["Documentation"],
               "id": "17"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
@@ -218,7 +255,7 @@
           "time": "3:00",
           "sessions": [
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
@@ -228,7 +265,7 @@
               "id": "19"
             },
             {
-              "name": "Looking for Chemistry Faculty",
+              "name": "Looking for Biology Faculty",
               "timeStart": "12 th class",
               "timeEnd": "CBSE Board",
               "location": "Hadapsar Pune",
@@ -431,7 +468,7 @@
       "icon": "document"
     },
     {
-      "name": "Food",
+      "name": "Exploring",
       "icon": "restaurant"
     },
     {
@@ -439,7 +476,7 @@
       "icon": "logo-ionic"
     },
     {
-      "name": "Tooling",
+      "name": "Urgent",
       "icon": "hammer"
     },
     {
@@ -447,7 +484,7 @@
       "icon": "color-palette"
     },
     {
-      "name": "Services",
+      "name": "Weekend",
       "icon": "cog"
     },
     {
